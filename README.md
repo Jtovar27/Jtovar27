@@ -1,16 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:16302B&height=190&section=header&text=Johan%20Tovar&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Science%20Student%20%C2%B7%20Cybersecurity%20%C2%B7%20Founder%20of%20RuutDev&descSize=16&descAlignY=58&animation=fadeIn" alt="Johan Tovar" width="100%" />
+  <img src="./assets/header.svg" alt="Johan Tovar — Computer Science · Cybersecurity · Founder of RuutDev" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2EA043&center=true&vCenter=true&width=560&lines=Computer+Science+student+%40+SNHU;Learning+cybersecurity+hands-on+on+TryHackMe;Working+toward+CompTIA+Security%2B;Founder+of+RuutDev" alt="Computer Science student, learning cybersecurity, founder of RuutDev" />
-</p>
-
-<p align="center">
-  <a href="https://ruutdev.com"><img src="https://img.shields.io/badge/ruutdev.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/johantovar27/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@Ruutdev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="mailto:tovar_1803@hotmail.com"><img src="https://img.shields.io/badge/Email-444444?style=for-the-badge" alt="Email" /></a>
+  <a href="https://ruutdev.com"><img src="https://img.shields.io/badge/ruutdev.com-00001A?style=for-the-badge&logo=googlechrome&logoColor=CDF98C" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/johantovar27/"><img src="https://img.shields.io/badge/LinkedIn-00001A?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@Ruutdev"><img src="https://img.shields.io/badge/YouTube-00001A?style=for-the-badge&logo=youtube&logoColor=CDF98C" alt="YouTube" /></a>
+  <a href="mailto:tovar_1803@hotmail.com"><img src="https://img.shields.io/badge/Email-00001A?style=for-the-badge" alt="Email" /></a>
 </p>
 
 ## About me
@@ -24,7 +20,7 @@
 ## Tech I've built with
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,react,nextjs,tailwind,nodejs,postgres,supabase,git,github,vercel&perline=8" alt="Python, Java, C, JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind, Node.js, PostgreSQL, Supabase, Git, GitHub, Vercel" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,react,nextjs,tailwind,nodejs,postgres,supabase,git,github,vercel&perline=8&theme=dark" alt="Python, Java, C, JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind, Node.js, PostgreSQL, Supabase, Git, GitHub, Vercel" />
 </p>
 
 **Currently learning:** `Linux` · `Networking fundamentals` · `Security+ domains` · `TryHackMe learning paths`
@@ -65,5 +61,5 @@ y cambia TU_USUARIO por tu usuario de TryHackMe.
 </picture>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16302B,100:0D1117&height=100&section=footer" alt="" width="100%" />
+  <img src="./assets/footer.svg" alt="RuutDev — Learn tech with direction. Build real things." width="100%" />
 </p>
