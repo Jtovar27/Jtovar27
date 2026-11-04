@@ -1,0 +1,111 @@
+{
+  "_comment": "Edit this file to update your profile graphics. Then run: python tools/build_assets.py (or just commit it on GitHub and the Action rebuilds the images).",
+
+  "name": "JOHAN TOVAR",
+  "handle": "github.com/Jtovar27",
+  "subtitle": "CYBERSECURITY  ·  COMPUTER SCIENCE @ SNHU  ·  CONTENT CREATOR",
+
+  "terminal": [
+    "now: CS50x (Harvard) + TryHackMe labs",
+    "next: CompTIA Security+",
+    "built: full-stack apps for real clients",
+    "creating: bilingual tech content @ruutdev"
+  ],
+
+  "sections": {
+    "about":    { "index": "01", "title": "ABOUT",         "tag": "// who i am",           "icon": "lucide:user-round" },
+    "focus":    { "index": "02", "title": "CURRENT FOCUS", "tag": "// training path",      "icon": "lucide:radar" },
+    "toolkit":  { "index": "03", "title": "TOOLKIT",       "tag": "// what i work with",   "icon": "lucide:layers" },
+    "projects": { "index": "04", "title": "PROJECTS",      "tag": "// shipped for clients", "icon": "lucide:folder-git-2" },
+    "content":  { "index": "05", "title": "CONTENT",       "tag": "// ruutdev",            "icon": "lucide:clapperboard" }
+  },
+
+  "focus": [
+    { "title": "Intro to Cybersecurity", "org": "Codecademy",                        "status": "COMPLETED · OCT 2026",      "state": "done",   "icon": "simple:codecademy" },
+    { "title": "CS50x",                  "org": "Harvard · Introduction to Computer Science", "status": "IN PROGRESS",   "state": "active", "icon": "lucide:code-xml" },
+    { "title": "TryHackMe",              "org": "Hands-on security labs",            "status": "ACTIVE",                    "state": "active", "icon": "simple:tryhackme" },
+    { "title": "CompTIA Security+",      "org": "First certification",               "status": "TARGET · BEFORE APR 2027",  "state": "next",   "icon": "lucide:shield-check" },
+    { "title": "B.S. Computer Science",  "org": "Southern New Hampshire University", "status": "EXPECTED 2027",             "state": "next",   "icon": "lucide:graduation-cap" }
+  ],
+
+  "toolkit": [
+    { "group": "SECURITY PRACTICE", "items": [
+      { "label": "Linux",      "icon": "simple:linux" },
+      { "label": "Networking", "icon": "lucide:network" },
+      { "label": "TryHackMe",  "icon": "simple:tryhackme" }
+    ]},
+    { "group": "BUILD", "items": [
+      { "label": "Python",     "icon": "simple:python" },
+      { "label": "C",          "icon": "simple:c" },
+      { "label": "Java",       "icon": "lucide:coffee" },
+      { "label": "JavaScript", "icon": "simple:javascript" },
+      { "label": "TypeScript", "icon": "simple:typescript" },
+      { "label": "React",      "icon": "simple:react" },
+      { "label": "Next.js",    "icon": "simple:nextdotjs" },
+      { "label": "Node.js",    "icon": "simple:nodedotjs" },
+      { "label": "PostgreSQL", "icon": "simple:postgresql" },
+      { "label": "Supabase",   "icon": "simple:supabase" },
+      { "label": "Git",        "icon": "simple:git" }
+    ]}
+  ],
+
+  "projects": [
+    {
+      "file": "amoura-florals",
+      "kind": "E-COMMERCE · CLIENT",
+      "name": "Amoura Florals",
+      "desc": "Online storefront for an Orlando florist, with an admin dashboard and Stripe checkout.",
+      "stack": ["JavaScript", "Node.js", "Supabase", "Stripe"],
+      "security": "Signed Stripe webhooks, server-side admin role checks, secrets kept off the client."
+    },
+    {
+      "file": "taxes-insurance",
+      "kind": "BUSINESS SITE + CMS · CLIENT",
+      "name": "Taxes & Insurance Group",
+      "desc": "Bilingual site for a Kissimmee tax and insurance firm, with an admin CMS and an AI chat assistant.",
+      "stack": ["Next.js", "TypeScript", "Supabase", "Claude API"],
+      "security": "JWT sessions in httpOnly cookies, scrypt password hashing, rate-limited public endpoints."
+    },
+    {
+      "file": "me-producciones",
+      "kind": "EVENTS PLATFORM · CLIENT",
+      "name": "ME Producciones",
+      "desc": "Bilingual events site with an admin CMS for events, speakers, sponsors and bookings.",
+      "stack": ["Next.js", "TypeScript", "Supabase", "Vitest"],
+      "security": "httpOnly session cookies, open-redirect protection, automated tests for server actions."
+    },
+    {
+      "file": "lumii-learning",
+      "kind": "MARKETING SITE · CLIENT",
+      "name": "Lumii Learning",
+      "desc": "Bilingual site for an in-home academic support service in Orlando.",
+      "stack": ["React", "Vite", "TypeScript", "Tailwind"],
+      "security": "Inquiry form validated against a strict schema (Zod) before it is sent."
+    }
+  ],
+
+  "content": {
+    "title": "RUUTDEV",
+    "tagline": "Learn tech with direction. Build real things.",
+    "desc": "I founded RuutDev to help people learn tech with a clear path. I create bilingual content, in Spanish and English, about programming, technology and what I am learning and building."
+  },
+
+  "buttons": [
+    { "file": "linkedin",  "label": "LinkedIn",    "icon": "custom:linkedin" },
+    { "file": "email",     "label": "Email",       "icon": "lucide:mail" },
+    { "file": "website",   "label": "ruutdev.com", "icon": "lucide:globe" },
+    { "file": "youtube",   "label": "YouTube",     "icon": "simple:youtube" },
+    { "file": "instagram", "label": "Instagram",   "icon": "simple:instagram" },
+    { "file": "x",         "label": "X",           "icon": "simple:x" }
+  ],
+
+  "facts": [
+    { "file": "focus",     "icon": "lucide:target" },
+    { "file": "education", "icon": "lucide:graduation-cap" },
+    { "file": "role",      "icon": "lucide:briefcase-business" },
+    { "file": "location",  "icon": "lucide:map-pin" },
+    { "file": "languages", "icon": "lucide:languages" }
+  ],
+
+  "footer": "Learn tech with direction. Build real things."
+}
